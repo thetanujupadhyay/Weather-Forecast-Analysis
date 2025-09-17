@@ -11,9 +11,7 @@
 ## 📍 **The Destination: A Clear View**
 This is the artifact recovered from the expedition—a "Decision Cockpit" designed not just to display information, but to guide action.
 
-![Weather Forecast Dashboard Preview](<img width="2015" height="1132" alt="Weather Forecast Dashboard" src="https://github.com/user-attachments/assets/fec38732-ab57-4915-afa7-ab4c12fe5e03" />
-)
-*(**Note:** To display your image, upload a screenshot to your repository—ideally in an 'images' folder—and update the path above.)*
+![Weather Forecast Dashboard Preview](./Weather Forecast Dashboard.png)
 
 ---
 
