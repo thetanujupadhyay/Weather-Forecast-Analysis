@@ -10,7 +10,8 @@
 
 ## 📍 **The Destination: A Clear View**
 This is the artifact recovered from the expedition—a "Decision Cockpit" designed not just to display information, but to guide action.
-![Uploading Screenshot 2025-09-17 224819.png…]()
+<img width="1285" height="725" alt="Screenshot 2025-09-17 224819" src="https://github.com/user-attachments/assets/2b7526b7-d233-4431-95ed-d3fa6f54354b" />
+
 
 ![Weather Forecast Dashboard Preview](./Weather Forecast Dashboard.png)
 
